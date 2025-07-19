@@ -1,7 +1,7 @@
 #include "vmlinux.h"
 #include <bpf/bpf_helpers.h>
 
-/// @ifindex 1
+/// @ifindex 2
 /// @flags 0
 /// @xdpopts {"old_prog_fd":0}
 SEC("xdp")
