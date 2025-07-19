@@ -1,2 +1,2 @@
 # networkwhiz
-Network (w)Viz on Linux
+Network (W)viz on Linux
