@@ -19,3 +19,5 @@ Summarizing the steps here. Below was tested on ubunut22.04.
   eunomia-bpf compiler
   Usage: ecc [OPTIONS] <SOURCE_PATH> [EXPORT_EVENT_HEADER]
 
+The above are also placed in the tools directory. So if you have this repo cloned you can move them to /usr/sbin or /usr/bin or a location that is in your path variable.
+
