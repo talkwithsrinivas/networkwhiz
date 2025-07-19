@@ -11,7 +11,7 @@ Summarizing the steps here. Below was tested on ubunut22.04.
 $ ./ecli -h
 Usage: ecli [--help] [--version] [--json] [--no-cache] url-and-args
 
-2)wget https://github.com/eunomia-bpf/eunomia-bpf/releases/latest/download/ecc && chmod +x ./ecc
+2) wget https://github.com/eunomia-bpf/eunomia-bpf/releases/latest/download/ecc && chmod +x ./ecc
 $ ./ecc -h
 eunomia-bpf compiler
 Usage: ecc [OPTIONS] <SOURCE_PATH> [EXPORT_EVENT_HEADER]
